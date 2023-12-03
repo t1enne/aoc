@@ -1,0 +1,6 @@
+{
+	"tasks": {
+		"day": "deno run --allow-read mod.ts",
+		"dev": "deno run --allow-read --watch mod.ts "
+	}
+}
